@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhishek Das
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Masters Student in Electrical and Computer Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Carnegie Mellon University
+  url: https://www.ece.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Machine Learning
 
 # Education to show in About widget
 education:
