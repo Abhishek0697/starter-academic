@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Electrical and Computer Engineering
+  - course: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2020
-  - course: BEng in Electronics and Telecommunication Engineering
+  - course: B.Eng. in Electronics and Telecommunication Engineering
     institution: University of Mumbai
     year: 2019
 
