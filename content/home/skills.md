@@ -51,7 +51,7 @@ feature:
   name: NumPy
   description: Advanced
 
-- icon: scikitlearn
+- icon: sklearn
   icon_pack: "custom"
   name: scikit-learn
   description: Advanced
