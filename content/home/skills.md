@@ -20,10 +20,12 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: Advanced
-  icon: camera-retro
-  icon_pack: fas
-  name: MATLAB
+    
+- description: Intermediate
+  icon: linux
+  icon_pack: fab
+  name: Linux
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -44,5 +46,13 @@ feature:
   name: PyTorch
   description: Advanced
 
+- icon: numpy
+  icon_pack: "custom"
+  name: NumPy
+  description: Advanced
 
+- icon: scikitlearn
+  icon_pack: "custom"
+  name: scikit-learn
+  description: Advanced
 ---
