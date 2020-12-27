@@ -28,7 +28,7 @@ item:
   date_start: "2018-10-01"
   description: ""
   organization: Udemy
-  organization_url: https://www.udemy.com/
+  organization_url: ""
   title: Machine Learning A-Z™ : : Hands-On Python & R In Data Science
   url: ""
   
@@ -37,16 +37,16 @@ item:
   date_start: "2019-04-01"
   description: ""
   organization: Udemy
-  organization_url: https://www.udemy.com/
+  organization_url: ""
   title: Deep Learning A-Z™: Hands-On Artificial Neural Networks
   url: ""
   
 - certificate_url: https://www.coursera.org/account/accomplishments/verify/K59XNAZRU6X3
   date_end: ""
   date_start: "2018-08-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description: ""
   organization: Coursera
-  organization_url: https://www.coursera.org/
+  organization_url: ""
   title: Machine Learning
   url: ""
   
@@ -55,7 +55,7 @@ item:
   date_start: "2018-03-01"
   description: ""
   organization: Udemy
-  organization_url: https://www.udemy.com/
+  organization_url: ""
   title: 'Master Computer Vision™ OpenCV3 in Python & Machine Learning'
   url: ""
   
@@ -64,7 +64,7 @@ item:
   date_start: "2017-10-01"
   description: ""
   organization: NPTEL
-  organization_url: https://nptel.ac.in/
+  organization_url: ""
   title: 'Introduction to Internet of Things'
   url: ""  
 
@@ -73,7 +73,7 @@ item:
   date_start: "2017-03-01"
   description: ""
   organization: NPTEL
-  organization_url: https://nptel.ac.in/
+  organization_url: ""
   title: 'Strategy: An Introduction to Game Theory'
   url: ""  
 
