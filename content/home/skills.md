@@ -46,13 +46,77 @@ feature:
   name: PyTorch
   description: Advanced
 
+- icon: python
+  icon_pack: "custom"
+  name: Python
+  description: Advanced
+
 - icon: numpy
   icon_pack: "custom"
   name: NumPy
+  description: Advanced
+
+- icon: matlab2
+  icon_pack: "custom"
+  name: MATLAB
+  description: Advanced
+
+- icon: arduino
+  icon_pack: "custom"
+  name: Arduino
   description: Advanced
 
 - icon: sklearn
   icon_pack: "custom"
   name: scikit-learn
   description: Advanced
+
+- icon: jupyter
+  icon_pack: "custom"
+  name: Jupyter
+  description: Advanced
+  
+- icon: keras
+  icon_pack: "custom"
+  name: Keras
+  description: Advanced
+
+- icon: Matplotlib
+  icon_pack: "custom"
+  name: scikit-learn
+  description: Advanced
+
+- icon: pandas
+  icon_pack: "custom"
+  name: Pandas
+  description: Intermediate
+
+- icon: tensorflow
+  icon_pack: "custom"
+  name: TensorFlow
+  description: Intermediate
+
+- icon: aws-ec2
+  icon_pack: "custom"
+  name: Amazon EC2
+  description: Intermediate
+
+- icon: opencv
+  icon_pack: "custom"
+  name: OpenCV
+  description: Intermediate
+
+- icon: cib-apache-spark
+  icon_pack: "custom"
+  name: Apache Spark
+  description: Intermediate
+  
+# - icon: mysql
+#  icon_pack: "custom"
+#  name: SQL
+#  description: Advanced
+
+
+
+
 ---
