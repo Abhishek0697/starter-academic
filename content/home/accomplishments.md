@@ -31,14 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: Machine Learning
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://ude.my/UC-95EH36CT
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2018-10-01"
+  description: ""
   organization: Udemy
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  organization_url: https://www.udemy.com
+  title: Machine Learning A-Z™: Hands-On Python & R In Data Science
+  url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
   date_start: "2017-07-01"
