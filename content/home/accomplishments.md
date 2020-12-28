@@ -42,13 +42,4 @@ item:
   title: Deep Learning A-Z™: Hands-On Artificial Neural Networks
   url: ""
   
-- certificate_url: https://www.coursera.org/account/accomplishments/verify/K59XNAZRU6X3
-  date_end: ""
-  date_start: "2018-08-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Machine Learning
-  url: ""
-  
 ---
