@@ -51,13 +51,4 @@ item:
   title: Machine Learning
   url: ""
   
-- certificate_url: https://ude.my/UC-Z0VSUMZY
-  date_end: ""
-  date_start: "2018-03-01"
-  description: ""
-  organization: Udemy
-  organization_url: ""
-  title: 'Master Computer Vision™ OpenCV3 in Python & Machine Learning'
-  url: "" 
-
 ---
