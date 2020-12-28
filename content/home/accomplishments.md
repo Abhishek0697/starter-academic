@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com
-  title: Machine Learning A-Z™: Hands-On Python & R In Data Science
+  title: Machine Learning A-Z: Hands-On Python & R In Data Science
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
