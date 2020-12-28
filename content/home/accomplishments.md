@@ -23,7 +23,6 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-
 - certificate_url: https://ude.my/UC-95EH36CT
   date_end: ""
   date_start: "2019-04-01"
@@ -31,14 +30,5 @@ item:
   organization: Udemy
   organization_url: ""
   title: Machine Learning A-Z™: Hands-On Python & R In Data Science
-  url: ""
-  
-- certificate_url: https://ude.my/UC-BQNG1V34
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Udemy
-  organization_url: ""
-  title: Deep Learning A-Z™: Hands-On Artificial Neural Networks
-  url: ""
+  url: ""  
 ---
