@@ -41,7 +41,7 @@ item:
   title: Machine Learning A-Z™ : Hands-On Python & R In Data Science
   url: ""
   
- - certificate_url: https://ude.my/UC-BQNG1V34
+- certificate_url: https://ude.my/UC-BQNG1V34
   date_end: ""
   date_start: "2018-10-01"
   description: ""
