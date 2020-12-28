@@ -51,7 +51,7 @@ item:
   title: Machine Learning
   url: ""
   
-- certificate_url: http://ude.my/UC-Z0VSUMZY
+- certificate_url: https://ude.my/UC-Z0VSUMZY
   date_end: ""
   date_start: "2018-03-01"
   description: ""
