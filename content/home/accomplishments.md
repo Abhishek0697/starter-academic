@@ -41,5 +41,4 @@ item:
   organization_url: ""
   title: Deep Learning A-Z™: Hands-On Artificial Neural Networks
   url: ""
-  
 ---
