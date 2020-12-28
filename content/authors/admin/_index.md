@@ -14,7 +14,7 @@ organizations:
   url: https://www.ece.cmu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Multimodal Machine Learning, integrating knowledge from Vision, Language and Audio modalities.
+bio: My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowlegde from Vision, Language and Speech modalities.
 
 # Interests to show in About widget
 interests:
@@ -75,7 +75,9 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about designing projects that could effectively solve global real-time issues and disruptively innovate the industry by applying Computer Vision, Natural Language Processing, Deep Learning, and Internet of Things.
+I am passionate about designing projects that could effectively solve global real-time issues and disruptively innovate the industry by applying Computer Vision, Natural Language Processing, Deep Learning, and the Internet of Things.
+
+My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowlegde from Vision, Language and Speech modalities.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
