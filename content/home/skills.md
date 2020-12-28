@@ -15,7 +15,7 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-# feature:
+feature:
 # - description: Advanced
 #  icon: python
 #  icon_pack: fab
@@ -28,7 +28,7 @@ subtitle:
 
 
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
+# - icon: ":smile:"
 #  icon_pack: "emoji"
 #  name: "Emojiness"
 #  description: "100%"  
