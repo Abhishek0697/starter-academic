@@ -51,7 +51,7 @@ feature:
   name: Python
   description: Advanced
 
-- icon: numpy
+- icon: numpy2
   icon_pack: "custom"
   name: NumPy
   description: Advanced
@@ -99,6 +99,11 @@ feature:
 - icon: aws-ec2
   icon_pack: "custom"
   name: Amazon EC2
+  description: Intermediate
+
+- icon: linux
+  icon_pack: "custom"
+  name: Linux
   description: Intermediate
 
 - icon: opencv
