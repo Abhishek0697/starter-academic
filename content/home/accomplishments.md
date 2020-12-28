@@ -38,6 +38,8 @@ item:
   description: ""
   organization: Udemy
   organization_url: ""
+  title: Machine Learning A-Z™:Hands-On Python & R In Data Science
+  url: ""
 
 - certificate_url: https://www.edx.org
   date_end: ""
