@@ -15,16 +15,16 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: Advanced
-  icon: python
-  icon_pack: fab
-  name: Python
+# feature:
+# - description: Advanced
+#  icon: python
+#  icon_pack: fab
+#  name: Python
     
-- description: Intermediate
-  icon: linux
-  icon_pack: fab
-  name: Linux
+# - description: Intermediate
+#  icon: linux
+#  icon_pack: fab
+#  name: Linux
 
 
 # Uncomment to use emoji icons.
@@ -81,9 +81,9 @@ feature:
   name: Keras
   description: Advanced
 
-- icon: Matplotlib
+- icon: matplotlib
   icon_pack: "custom"
-  name: scikit-learn
+  name: Matplotlib
   description: Advanced
 
 - icon: pandas
