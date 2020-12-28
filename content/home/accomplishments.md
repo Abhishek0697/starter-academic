@@ -30,8 +30,7 @@ item:
   organization: Coursera
   organization_url: https://www.coursera.org
   title: Neural Networks and Deep Learning
-  url: ""
-  
+  url: "" 
 - certificate_url: https://ude.my/UC-95EH36CT
   date_end: ""
   date_start: "2019-04-01"
@@ -40,16 +39,6 @@ item:
   organization_url: ""
   title: Machine Learning A-Z™ : Hands-On Python & R In Data Science
   url: ""
-  
-- certificate_url: https://ude.my/UC-BQNG1V34
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Udemy
-  organization_url: ""
-  title: Deep Learning A-Z™: Hands-On Artificial Neural Networks
-  url: ""  
-  
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
