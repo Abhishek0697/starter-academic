@@ -9,6 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
+design:
+  columns: '2'
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 #title: 'Accomplish&shy;ments'
 title: 'Accomplishments'
