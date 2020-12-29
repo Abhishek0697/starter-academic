@@ -55,7 +55,7 @@ item:
   organization_url: https://www.udemy.com
   title: "Master Computer Vision™ OpenCV3 in Python & Machine Learning"
   url: "" 
-- certificate_url: IoT.jpg
+- certificate_url: media/IoT.jpg
   date_end: ""
   date_start: "2017-10-01"
   description: ""
