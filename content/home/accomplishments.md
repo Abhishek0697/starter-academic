@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
-subtitle:
+subtitle: Certifications
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -55,7 +55,7 @@ item:
   organization_url: https://www.udemy.com
   title: "Master Computer Vision™ OpenCV3 in Python & Machine Learning"
   url: "" 
-- certificate_url: https://github.com/Abhishek0697/Abhishek0697.github.io/blob/main/MyImages/IoT.jpg
+- certificate_url: IoT.jpg
   date_end: ""
   date_start: "2017-10-01"
   description: ""
