@@ -15,7 +15,7 @@
 #   Browse user installed themes in `data/themes/`
 #theme = "minimal"
 #theme = "ocean"
-theme = "strawberry"
+theme = "rose"
 
 
 # Enable users to switch between day and night mode?
