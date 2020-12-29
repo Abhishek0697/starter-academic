@@ -18,6 +18,7 @@
 #theme = "coffee"
 theme = "forest"
 
+i_am_a_sponser = true
 
 # Enable users to switch between day and night mode?
 day_night = true
