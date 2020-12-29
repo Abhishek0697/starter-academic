@@ -17,10 +17,9 @@
 #theme = "ocean"
 #theme = "coffee"
 #theme = "forest"
-theme = "earth"
+theme = "cyberpunk"
 
 i_am_a_sponsor = true
-is_sponsor = true
 
 # Enable users to switch between day and night mode?
 day_night = true
