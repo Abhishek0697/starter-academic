@@ -30,12 +30,10 @@ experience:
     date_end: '2020-12-23'
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: "Research Intern"
+      
+        * Developing a pipeline for Plugs detection for Inventory management in Retail Stores
+         
+  - title: "Summer Research Intern"
     company: "CyLab Security and Privacy Institute - Biometrics Center, Carnegie Mellon University"
     company_url: https://www.cylab.cmu.edu/
     location: Pittsburgh
@@ -44,9 +42,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Improving Fine-Grain Retail Product Image Classification
+
 
   - title: "Graduate Research Assistant"
     company: "Artificial Intelligence in Products Engineered for X (AiPEX) Lab, Carnegie Mellon University"
@@ -57,10 +54,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
+        * Collaborated with a Ph.D. student to train a Deepfake video detection architecture using CNN and Pulse rate estimation
+                
 #  - title: Professor
 #    company: University X
 #    company_url: ''
