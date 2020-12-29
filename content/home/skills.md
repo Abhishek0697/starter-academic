@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 design:
-  columns:'4'
+  columns: '2'
 title: Skills
 subtitle:
 
