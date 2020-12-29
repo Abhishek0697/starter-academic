@@ -19,6 +19,7 @@
 theme = "forest"
 
 i_am_a_sponser = true
+is_sponsor = true
 
 # Enable users to switch between day and night mode?
 day_night = true
