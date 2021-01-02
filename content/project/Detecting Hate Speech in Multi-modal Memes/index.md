@@ -18,8 +18,8 @@ links:
   name: Follow
   url: https://twitter.com/imad0697
 url_code: ""
-url_pdf: "https://arxiv.org/abs/2012.14891"
-url_slides: ""
+url_pdf: "https://arxiv.org/pdf/2012.14891.pdf"
+url_slides: "https://github.com/Abhishek0697/Facebook-Hateful-Memes-Challenge/blob/main/Detecting%20Hate%20Speech%20in%20Multi-modal%20Memes.pdf"
 url_video: ""
 
 # Slides (optional).
