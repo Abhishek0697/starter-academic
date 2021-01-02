@@ -79,5 +79,6 @@ I am passionate about designing projects that could effectively solve global rea
 
 My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowlegde from Vision, Language and Speech modalities.
 
+In my Leisure time, I enjoy playing cricket 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
