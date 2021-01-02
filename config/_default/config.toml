@@ -14,7 +14,7 @@ baseurl = "https://Abhishek0697.github.io/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {2021} Abhishek Das"
+copyright = "&copy; {year} Abhishek Das"
 
 ############################
 ## Advanced options below ##
