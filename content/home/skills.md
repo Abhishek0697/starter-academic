@@ -7,10 +7,10 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 40
 
 design:
-  columns: '2'
+  columns: '1'
 title: Skills
 subtitle:
 
@@ -83,10 +83,10 @@ feature:
   name: Keras
   description: Advanced
 
-- icon: matplotlib
-  icon_pack: "custom"
-  name: Matplotlib
-  description: Advanced
+# - icon: matplotlib
+#  icon_pack: "custom"
+#  name: Matplotlib
+#  description: Advanced
 
 - icon: pandas
   icon_pack: "custom"
@@ -108,22 +108,19 @@ feature:
   name: Linux
   description: Intermediate
 
-- icon: opencv
-  icon_pack: "custom"
-  name: OpenCV
-  description: Intermediate
+# - icon: opencv
+#  icon_pack: "custom"
+#  name: OpenCV
+#  description: Intermediate
 
-- icon: cib-apache-spark
-  icon_pack: "custom"
-  name: Apache Spark
-  description: Intermediate
+# - icon: cib-apache-spark
+#  icon_pack: "custom"
+#  name: Apache Spark
+#  description: Intermediate
   
 # - icon: mysql
 #  icon_pack: "custom"
 #  name: SQL
 #  description: Advanced
-
-
-
 
 ---
