@@ -3,7 +3,7 @@ widget: about
 widget_id: gbm
 headless: true
 weight: 20
-title: About Me
+title: Hey, I am Abhishek!
 active: true
 author: admin
 ---
