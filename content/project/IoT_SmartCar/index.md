@@ -30,5 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Write here
 
