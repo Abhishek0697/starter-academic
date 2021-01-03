@@ -9,7 +9,7 @@ date: "2018-5-1T00:00:00Z"
 external_link: "https://github.com/Abhishek0697/IoT_SmartCar"
 
 image:
-  caption: Block Diagram 
+  caption: Block Diagram showing our proposed features
   focal_point: Smart
 
 # links:
