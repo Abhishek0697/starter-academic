@@ -15,5 +15,3 @@ image:
 url_code: ""
 ---
 
-
-![](poster.png)
