@@ -4,7 +4,7 @@ url_pdf: ""
 summary: Separate, Classify and Localize sounds of objects in a car’s vicinity.
 url_video: ""
 date: 2019-12-1T00:00:00Z
-external_link: '""'
+external_link: ''
 url_slides: ""
 title: Acoustic classification and localisation of sound sources for autonomous
   vehicles
