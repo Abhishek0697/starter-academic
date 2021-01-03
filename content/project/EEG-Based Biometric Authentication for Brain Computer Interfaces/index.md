@@ -4,7 +4,7 @@ url_pdf: https://github.com/Abhishek0697/EEG-Based-Biometric-Authentication-for-
 summary: Find best subset of channels using PCA
 url_video: ""
 date: 2019-12-12T00:00:00.000Z
-external_link: "-"
+external_link: ""
 url_slides: ""
 title: EEG-Based Biometric Authentication for Brain Computer Interfaces
 tags:
