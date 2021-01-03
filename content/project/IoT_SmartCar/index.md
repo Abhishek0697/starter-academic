@@ -1,6 +1,6 @@
 ---
 title: Smart Car Features using Embedded Systems and IoT
-summary: An example of using the in-built project page.
+summary: Crash Alert, Panic button, Drunk driver detection, Inertactive Cabin Monitoring
 tags:
 - IoT
 date: "2018-5-1T00:00:00Z"
