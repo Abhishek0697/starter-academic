@@ -1,6 +1,6 @@
 ---
 title: Smart Refrigerator using IoT and Android
-summary: An example of using the in-built project page.
+summary: Notifies and orders food items when finished, Expiry-date tracker app
 tags:
 - IoT
 date: "2018-5-1T00:00:00Z"
@@ -9,14 +9,14 @@ date: "2018-5-1T00:00:00Z"
 external_link: "https://github.com/Abhishek0697/IoT_Refrigerator"
 
 image:
-  caption: Screenshot of User’s Mobile Phone
+  caption: Screenshot of Notification sent by the smart refrigerator to the user’s mobile phone
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/imad0697
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/imad0697
 url_code: ""
 url_pdf: "https://arxiv.org/ftp/arxiv/papers/2012/2012.10422.pdf"
 url_slides: ""
@@ -29,6 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Write here
 
