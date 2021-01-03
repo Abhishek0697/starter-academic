@@ -20,5 +20,3 @@ image:
 url_code: ""
 ---
 
-Write here
-
