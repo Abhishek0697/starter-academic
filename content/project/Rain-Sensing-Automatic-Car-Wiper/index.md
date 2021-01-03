@@ -1,6 +1,6 @@
 ---
 title: Rain Sensing Automatic Car Wiper using AT89C51 Microcontroller
-summary: An example of using the in-built project page.
+summary:  Detect rain intensity and switct the wiper
 tags:
 - IoT
 date: "2017-12-1T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2017-12-1T00:00:00Z"
 external_link: "https://github.com/Abhishek0697/Rain-Sensing-Automatic-Car-Wiper-using-AT89C51-Microcontroller"
 
 image:
-  caption: Model
+  caption: Our Prototype for the proposed model
   focal_point: Smart
 
 # links:
