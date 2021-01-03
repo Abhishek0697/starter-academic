@@ -15,6 +15,6 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-# Project Poster
+
 
 ![](mlsp-project-poster.png)
