@@ -14,9 +14,9 @@
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
 #theme = "minimal"
-theme = "ocean"
+#theme = "ocean"
 #theme = "coffee"
-#theme = "forest"
+theme = "forest"
 #theme = "apogee"
 
 
