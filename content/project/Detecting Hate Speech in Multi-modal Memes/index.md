@@ -9,13 +9,13 @@ url_slides: https://github.com/Abhishek0697/Facebook-Hateful-Memes-Challenge/blo
 title: Detecting Hate Speech in Multi-modal Memes
 tags:
   - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/imad0697
+# links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/imad0697
 image:
-  caption: Screenshot of User’s Mobile Phone
+  caption: Hateful Meme(left), it's Benign Confounder(middle) and Object Dection Visualization(right)
   focal_point: Smart
 url_code: ""
 ---
