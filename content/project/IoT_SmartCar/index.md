@@ -12,11 +12,11 @@ image:
   caption: Block Diagram 
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/imad0697
+# links:
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/imad0697
 url_code: ""
 url_pdf: ""
 url_slides: ""
