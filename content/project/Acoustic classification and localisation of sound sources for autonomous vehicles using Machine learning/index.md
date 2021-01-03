@@ -1,10 +1,10 @@
 ---
 title: Acoustic classification and localisation of sound sources for autonomous vehicles using Machine learning
-summary: Our project seeks to apply machine learning techniques to help separate, classify and localise sounds of objects in a car’s vicinity. With these capabilities, a car is more well-informed of its surroundings and can act accordingly (such as responding and making way for police cars, ambulances and fire trucks).
+summary: Separate, Classify and Localize sounds of objects in a car’s vicinity.
 
 tags:
 - ML
-date: "2020-5-1T00:00:00Z"
+date: "2019-12-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -31,6 +31,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
+
 
 ![Alt text](https://github.com/Abhishek0697/Acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-ML/blob/master/Images/MLSP%20Project%20poster.png)
 
