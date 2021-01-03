@@ -3,7 +3,7 @@ title: Smart Car Features using Embedded Systems and IoT
 summary: Crash Alert, Panic button, Drunk driver detection, Inertactive Cabin Monitoring
 tags:
 - IoT
-date: "2018-5-1T00:00:00Z"
+date: 2018-5-1T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/Abhishek0697/IoT_SmartCar"
