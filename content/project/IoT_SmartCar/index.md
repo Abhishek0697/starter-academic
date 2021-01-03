@@ -1,6 +1,6 @@
 ---
 title: Smart Car Features using Embedded Systems and IoT
-summary: Crash Alert, Panic button, Drunk driver detection, Inertactive Cabin Monitoring
+summary: Car crash alert, Panic button, Drunk driver detection, Interactive cabin monitoring
 tags:
 - IoT
 date: 2018-5-1T00:00:00Z
