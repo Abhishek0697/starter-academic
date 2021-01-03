@@ -11,7 +11,7 @@ weight: 50
 
 design:
   columns: '1'
-  view: '2'
+  view: '3'
   
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 #title: 'Accomplish&shy;ments'
