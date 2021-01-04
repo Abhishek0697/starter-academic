@@ -2,7 +2,7 @@
 slides: Detecting-Hate-Speech-in-Multi-modal-Memes
 url_pdf: https://arxiv.org/pdf/2012.14891.pdf
 # summary: Classify a Meme as Hateful or Benign
-summary: PyTorch, Python, Jupyter
+summary: PyTorch, Python, Jupyter Notebook, EC2
 
 url_video: ""
 date: 2020-12-1T00:00:00Z
