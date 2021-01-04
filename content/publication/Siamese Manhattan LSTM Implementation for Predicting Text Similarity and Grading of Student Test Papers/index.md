@@ -20,7 +20,8 @@ author_notes:
 - "Equal contribution"
 
 date: "2019-11-17T00:00:00Z"
-doi: "https://doi.org/10.1007/978-981-15-1002-1_60"
+# doi: "https://doi.org/10.1007/978-981-15-1002-1_60"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
