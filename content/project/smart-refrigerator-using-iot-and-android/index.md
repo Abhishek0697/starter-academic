@@ -1,6 +1,7 @@
 ---
 title: Smart Refrigerator using IoT and Android
-summary: Notifies and orders food items when finished, Expiry-date tracker app
+# summary: Notifies and orders food items when finished, Expiry-date tracker app
+summary: Arduino, GSM SIM900A, Ultrasonic sensor, Infrared sensor
 tags:
 - IoT
 date: "2018-5-1T00:00:00Z"
