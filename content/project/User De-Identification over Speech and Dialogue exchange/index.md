@@ -15,6 +15,8 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-
-
 {{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/pub?start=false&loop=false&delayms=3000" >}}
+
+
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2304" height="3485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
