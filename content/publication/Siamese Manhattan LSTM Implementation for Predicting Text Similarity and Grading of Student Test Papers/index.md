@@ -46,7 +46,7 @@ tags: Deep Learning
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Chapter
    url: https://link.springer.com/chapter/10.1007/978-981-15-1002-1_60
 
