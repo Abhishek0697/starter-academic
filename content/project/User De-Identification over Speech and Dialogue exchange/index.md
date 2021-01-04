@@ -1,6 +1,6 @@
 ---
 slides: ""
-url_pdf: https://github.com/Abhishek0697/EEG-Based-Biometric-Authentication-for-Brain-Computer-Interfaces-/blob/master/Biometric_Authentication_using_EEG_Report.pdf
+url_pdf: ""
 # summary: Find best subset of channels using PCA
 summary: PyTorch, Python, Jupyter Notebook, EC2
 url_video: ""
@@ -15,8 +15,7 @@ image:
   focal_point: Smart
 url_code: ""
 ---
-{{< gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/pub?start=false&loop=false&delayms=3000" >}}
 
 
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="2304" height="3485" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1152" height="1757" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
