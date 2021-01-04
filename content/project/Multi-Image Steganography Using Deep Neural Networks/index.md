@@ -1,6 +1,7 @@
 ---
 title: Multi-Image Steganography Using Deep Neural Networks
-summary: Hide multiple secret images within a cover image.
+# summary: Hide multiple secret images within a cover image.
+summary: Pytorch, Python, Jupyter
 tags:
 - Deep Learning
 date: "2020-5-1T00:00:00Z"
@@ -30,6 +31,4 @@ url_video: "https://www.youtube.com/watch?v=Sb-Df9QW0sM&t=5s"
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Write here
 
