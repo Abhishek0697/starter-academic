@@ -1,6 +1,7 @@
 ---
 title: Rain Sensing Automatic Car Wiper using AT89C51 Microcontroller
-summary: Detect rain intensity and control wiper speed
+# summary: Detect rain intensity and control wiper speed
+summary: 8051 Microcontroller, Raindrop sensor, Servo motor
 tags:
 - IoT
 date: 2017-12-1T00:00:00Z
