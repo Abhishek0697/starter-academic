@@ -20,7 +20,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2019-11-17T00:00:00Z"
-doi: "http://doi-org-443.webvpn.fjmu.edu.cn/10.1007/978-981-15-1002-1_60"
+doi: "https://doi.org/10.1007/978-981-15-1002-1_60"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-01-01T00:00:00Z"
@@ -32,13 +32,13 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of International Conference on Wireless Communication
+publication: In *Proceedings of International Conference on Wireless Communication, (ICWiCOM 2019)*
 publication_short: In *ICWiCOM 2019*
 
 abstract: This paper presents a method to grade answer papers written by the students by assessing the semantic similarity between the written answers and the actual answers and grading them accordingly based on the amount of semantic similarity between the two. There is a need for automatic grading of answers for faster checking of papers and to reduce the work of the teachers, also the method of text similarity can be used in search engines to find a particular document on the Internet or by question-answer sites such as Quora to determine similar questions. We have implemented this by using Manhattan LSTM (Long short-term memory) which is a Siamese deep neural network. This method uses word embedding vectors to create embedded matrices which are fed to LSTM and similarity function to get the result of the similarity between answers and then scaled to the appropriate grade.
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: This paper presents a method to grade answer papers written by the students by assessing the semantic similarity between the written answers and the actual answers and grading them accordingly based on the amount of semantic similarity between the two.
 
 tags: ["Deep Learning"]
 
