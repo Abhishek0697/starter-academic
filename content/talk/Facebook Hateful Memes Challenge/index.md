@@ -12,7 +12,7 @@ location: Virtual
   #postcode: '94305'
   #country: United States
 
-summary: "We present Object Detection based Image Captioning and Sentiment Analysis as our two Research ideas to enhance performance against the adversarial examples in the challenge dataset."
+summary: "We present Object Detection based Image Captioning and Sentiment Analysis as our two research ideas to enhance performance against the adversarial examples introduced the challenge dataset."
 abstract: "We propose two research ideas which when integrated into a Multimodal model, aims to learn the context behind the combination of text and captions used. Our first idea is to use Image Captioning as a medium for introducing outside world knowledge to our model. The highly confident error cases of the multimodal baselines show that the models tend to focus more on the text modality for predictions. Our focus in using this approach is to find a deeper relationship between the text and the image modalities by bringing the visual modality and finding its “actual caption” and parallelly sending the image representation along with the pre-extracted caption representation for the concatenation step. Moreover, comparing the “actual caption” with the “pre-extracted caption” of the meme will help in understanding whether both are aligned or not because in many cases a hateful image is turned benign just by declaring what is happening in the image. Our second approach is to use sentiment analysis on both Image and Text modalities. Instead of only using multimodal representations obtained from pre-trained neural networks, we also include the unimodal sentiment to enrich the features. The intuition for this idea is that current pre-trained representations, like VisualBERT and ViLBERT, have the objective of predicting the semantic correlation between image and text, but semantic information is difficult to capture and may not be enough for solving our task. We try to include high-level features like text and image sentiments because sentiment analysis is a related but relatively simple task." 
 
 # Talk start and end times.
@@ -32,7 +32,7 @@ featured: false
 
 image:
   caption: "Challenge"
-  focal_point: Right
+  focal_point: Smart
 
 #links:
 #- icon: twitter
@@ -63,6 +63,6 @@ projects:
 
 
 
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSmbP3wfqOAAUOv5o5pFGcoFgmy_LlJZwxM_B8v_fAY91i1_DvEY_BaRZ8hqk8qgez8Iq_lyEJEdESH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="720" height="1280" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPj6tRkmuUFDkVpe62UL1TPf9belHfbZwkItkbiOsKcX3YqOCnnvnvUryPjwbksbqvdfd8088YyZS9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 
