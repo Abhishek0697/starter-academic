@@ -32,7 +32,7 @@ featured: false
 
 image:
   caption: "Challenge"
-  focal_point: Smart
+  focal_point: right
 
 #links:
 #- icon: twitter
@@ -63,6 +63,6 @@ projects:
 
 
 
-<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPj6tRkmuUFDkVpe62UL1TPf9belHfbZwkItkbiOsKcX3YqOCnnvnvUryPjwbksbqvdfd8088YyZS9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQPj6tRkmuUFDkVpe62UL1TPf9belHfbZwkItkbiOsKcX3YqOCnnvnvUryPjwbksbqvdfd8088YyZS9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 
