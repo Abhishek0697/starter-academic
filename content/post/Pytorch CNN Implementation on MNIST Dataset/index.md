@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'MNIST Data'
   focal_point: "Center"
-  placement: 1
+  placement: 2
   preview_only: false
 
 authors:
