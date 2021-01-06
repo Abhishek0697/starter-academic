@@ -19,7 +19,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/imad0697
 url_code: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2101.01670.pdf"
 url_slides: ""
 url_video: ""
 
