@@ -1,10 +1,10 @@
 ---
 slides: ""
-url_pdf: ""
+url_pdf: "https://github.com/Abhishek0697/Acoustic-classification-and-localisation-of-sound-sources-for-autonomous-vehicles-using-ML/blob/master/Report.pdf"
 # summary: Separate, Classify and Localize sounds of objects in a car’s vicinity.
 summary: Python, NumPy, scikit-learn
 url_video: ""
-date: 2019-12-1T00:00:00.000Z
+date: "2019-12-12T00:00:00.000Z"
 external_link: ''
 url_slides: ""
 title: Acoustic classification and localisation of sound sources for autonomous
