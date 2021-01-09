@@ -1,7 +1,7 @@
 ---
 slides: ""
-url_pdf: ""
-# summary: Find best subset of channels using PCA
+url_pdf: "https://github.com/Abhishek0697/User-De-Identification-over-Speech-Dialogue-exchange/blob/main/Report.pdf"
+# summary: 
 summary: PyTorch, Python, Jupyter Notebook, EC2
 url_video: ""
 date: 2020-12-14T00:00:00.000Z
