@@ -5,10 +5,10 @@ name = "yellow"
 light = true
 
 # Primary
-primary = "#FFD500"
+primary = "#FFC500"
 
 # Menu
-menu_primary = "#FFD500"
+menu_primary = "#FFC500"
 menu_text = "#fff"
 menu_text_active = "#000"
 menu_title = "#fff"
