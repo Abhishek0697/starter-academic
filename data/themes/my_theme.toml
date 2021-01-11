@@ -5,12 +5,12 @@ name = "yellow"
 light = true
 
 # Primary
-primary = "#117864"
+primary = "#76448A"
 
 # Menu
-menu_primary = "#117864"
+menu_primary = "#76448A"
 menu_text = "#fff"
-menu_text_active = "#08FF00"
+menu_text_active = "#FFD800"
 menu_title = "#fff"
 
 # Home sections
