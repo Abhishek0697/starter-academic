@@ -60,7 +60,7 @@ social:
   link: https://www.linkedin.com/in/abhishek-deepak-das/
 - icon: medium
   icon_pack: fab
-  link: https://medium.com/@addas/about
+  link: https://medium.com/@iamabhishekdas
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
