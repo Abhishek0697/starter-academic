@@ -32,7 +32,7 @@ authors:
 - admin
 
 tags:
-- [Machine Learning, Data Science]
+- Machine Learning
 
 categories:
 - Machine Learning
