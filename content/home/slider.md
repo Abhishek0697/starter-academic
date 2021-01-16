@@ -18,15 +18,9 @@ height: 400px
 
 item:
   - title: My Favourites
-    content: '
+    content: 
     - Cooking
     - Body Building
-    '
-    feature:
-        - icon: pytorch
-          icon_pack: "custom"
-          name: PyTorch
-          description: Advanced
       
     align: center
     # Overlay a color or image (optional).
@@ -36,10 +30,10 @@ item:
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
     #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label: Download my app
-    cta_url: 'https://example.org'
-    cta_icon_pack: fas
-    cta_icon: graduation-cap
+    #cta_label: Download my app
+    #cta_url: 'https://example.org'
+    #cta_icon_pack: fas
+    #cta_icon: graduation-cap
     
   - title: Left
     content: 'I am left aligned 😄'
@@ -48,8 +42,11 @@ item:
     #overlay_img: ''
     #overlay_filter: 0.5
     
-  - title: Right
-    content: 'Languages I have learned'
+  - title: Languages I have learned
+    content: |2-
+            * English
+            * Hindi
+      
     align: left
     #overlay_color: '#333'
     #overlay_img: ''
@@ -57,6 +54,4 @@ item:
     
     
 ---
-
-
-- I like to read books
+# I like to read books
