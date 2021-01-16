@@ -18,9 +18,9 @@ height: 400px
 
 item:
   - title: My Favourites
-    content: 
-    - Cooking
-    - Body Building
+    content: |2- 
+            * Cooking
+            * Body Building
       
     align: center
     # Overlay a color or image (optional).
