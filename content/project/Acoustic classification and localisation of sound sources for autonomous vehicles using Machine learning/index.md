@@ -10,7 +10,7 @@ url_slides: ""
 title: Acoustic classification and localisation of sound sources for autonomous
   vehicles
 tags:
-  - ML
+  - Machine Learning
 image:
   caption: Our proposed idea
   focal_point: Smart
