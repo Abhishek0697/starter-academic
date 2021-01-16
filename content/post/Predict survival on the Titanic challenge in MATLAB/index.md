@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Titanic_in_color.png'
+  caption: 'Photo of the RMS Titanic departing Southampton on April 10, 1912 by F.G.O. Stuart, Public Domain'
   focal_point: "Center"
   placement: 2
   preview_only: false
