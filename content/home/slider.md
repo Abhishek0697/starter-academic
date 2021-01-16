@@ -18,7 +18,12 @@ height: 400px
 
 item:
   - title: My Favourites
-    content: 'I am center aligned 😄'
+    content: 'feature:
+        - icon: pytorch
+          icon_pack: "custom"
+          name: PyTorch
+          description: Advanced'
+      
     align: center
     # Overlay a color or image (optional).
     #overlay_color: '#666'  # An HTML color value.
@@ -41,11 +46,6 @@ item:
     
   - title: Right
     content: 'Languages I have learned'
-    feature:
-      - icon: pytorch
-        icon_pack: "custom"
-        name: PyTorch
-        description: Advanced
     align: left
     #overlay_color: '#333'
     #overlay_img: ''
