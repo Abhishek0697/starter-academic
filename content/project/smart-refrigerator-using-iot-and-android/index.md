@@ -4,7 +4,7 @@ title: Smart Refrigerator using IoT and Android
 summary: Arduino, GSM SIM900A, Ultrasonic sensor, Infrared sensor
 tags:
 - Internet of Things
-date: "2018-5-1T00:00:00Z"
+date: "2018-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
