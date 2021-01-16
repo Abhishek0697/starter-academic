@@ -30,9 +30,9 @@ content:
   - name: Deep Learning
     tag: Deep Learning
   - name: Machine Learning
-    tag: ML
+    tag: Machine Learning
   - name: Internet of Things
-    tag: IoT
+    tag: Internet of Things
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
