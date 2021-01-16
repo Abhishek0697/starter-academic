@@ -18,16 +18,20 @@ height: 400px
 
 item:
   - title: My Favourites
-    content: 'feature:
+    content: '
+    * Cooking
+    * Body Building
+    '
+    feature:
         - icon: pytorch
           icon_pack: "custom"
           name: PyTorch
-          description: Advanced'
+          description: Advanced
       
     align: center
     # Overlay a color or image (optional).
     #overlay_color: '#666'  # An HTML color value.
-    overlay_img: toi.jpeg  # Image path relative to your `static/media/` folder
+    #overlay_img: toi.jpeg  # Image path relative to your `static/media/` folder
     #overlay_filter: 0.5  # Darken the image. Value in range 0-1.
     # Call to action button (optional).
     #   Activate the button by specifying a URL and button label below.
