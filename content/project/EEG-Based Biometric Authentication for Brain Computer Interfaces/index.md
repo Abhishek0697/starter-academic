@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 title: EEG-Based Biometric Authentication for Brain Computer Interfaces
 tags:
-  - ML
+  - Machine Learning
 image:
   caption: Our proposed idea
   focal_point: Smart
