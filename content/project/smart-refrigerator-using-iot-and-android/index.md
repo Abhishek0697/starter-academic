@@ -3,11 +3,11 @@ title: Smart Refrigerator using IoT and Android
 # summary: Notifies and orders food items when finished, Expiry-date tracker app
 summary: Arduino, GSM SIM900A, Ultrasonic sensor, Infrared sensor
 tags:
-- IoT
+- Internet of Things
 date: "2018-5-1T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/Abhishek0697/IoT_Refrigerator"
+external_link: ""
 
 image:
   caption: Screenshot of Notification sent by the smart refrigerator to the user’s mobile phone
@@ -31,3 +31,11 @@ url_video: ""
 slides: ""
 ---
 
+### View on [GitHub](https://github.com/Abhishek0697/IoT_Refrigerator)
+
+
+### In the News
+This project was featured in the [Maharashtra Times](https://maharashtratimes.com), 21st April 2018 and also selected for display at [TEDx Gateway](https://tedxgateway.com/) Conference in Mumbai, 2018.
+
+
+<img src="toi.jpeg" alt="drawing" width="500"/>
