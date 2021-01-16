@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'MNIST Data'
+  caption: 'Titanic_in_color.png'
   focal_point: "Center"
   placement: 2
   preview_only: false
