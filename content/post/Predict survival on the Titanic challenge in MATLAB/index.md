@@ -32,10 +32,10 @@ authors:
 - admin
 
 tags:
-- ML
+- [Machine Learning, Data Science]
 
 categories:
-- ML
+- Machine Learning
 
 external_link: "https://iamabhishekdas.medium.com/kaggle-predict-survival-on-the-titanic-challenge-in-matlab-56f6ad3bab78"
 
