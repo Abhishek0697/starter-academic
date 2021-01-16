@@ -35,7 +35,7 @@ slides: ""
 
 
 ### In the News
-This project was featured in the [Maharashtra Times](https://maharashtratimes.com), 21st April 2018 and also selected for display at [TEDx Gateway](https://tedxgateway.com/) Conference in Mumbai, 2018.
-
+- This project was featured in the [Maharashtra Times](https://maharashtratimes.com), a Marathi newspaper based in Mumbai, India on 21st April 2018.
+- It was also selected for display at [TEDx Gateway](https://tedxgateway.com/) Conference in Mumbai, November 2018.
 
 <img src="toi.jpeg" alt="drawing" width="500"/>
