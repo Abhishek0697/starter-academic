@@ -3,7 +3,7 @@ title: Smart Car Features using Embedded Systems and IoT
 # summary: Car crash alert, Panic button, Drunk driver detection, Interactive cabin monitoring
 summary: Arduino, GSM SIM900A, Neo6m GPS, SW420 Impact sensor, DHT11 Temperature and Humidity sensor, MQ3 Alcohol sensor  
 tags:
-- IoT
+- Internet of Things
 date: 2018-5-1T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
