@@ -31,7 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Developing a pipeline for Plugs detection for Inventory management in Retail Stores
+        * Developing Neural Networks for Fine-Grain Retail Product Image Classification
+        * Read and Implement latest research techniques in the field to optimize the model performance
+        
          
   - title: "Summer Research Intern"
     company: "CyLab Security and Privacy Institute - Biometrics Center, Carnegie Mellon University"
@@ -42,7 +44,8 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Improving Fine-Grain Retail Product Image Classification
+        * Developing a pipeline for Plugs detection for Inventory management in Retail Stores
+        * Dataset Analysis and Cleaning
 
 
   - title: "Graduate Research Assistant"
@@ -54,7 +57,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Collaborated with a Ph.D. student to train a Deepfake video detection architecture using CNN and Pulse rate estimation
+        * Training a Deepfake video detection architecture using CNN and Pulse rate estimation
                 
 #  - title: Professor
 #    company: University X
