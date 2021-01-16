@@ -19,8 +19,8 @@ height: 400px
 item:
   - title: My Favourites
     content: '
-    * Cooking
-    * Body Building
+    - Cooking
+    - Body Building
     '
     feature:
         - icon: pytorch
