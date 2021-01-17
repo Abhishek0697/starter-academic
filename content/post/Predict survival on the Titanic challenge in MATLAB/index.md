@@ -3,7 +3,7 @@ title: "Predict survival on the Titanic challenge in MATLAB"
 subtitle: "A step-by-step tutorial to solve the Titanic challenge using MATLAB"
 
 # Summary for listings and search engines
-summary: "A step-by-step tutorial to solve the Titanic challenge using MATLAB"
+summary: "A step-by-step tutorial to solve the Titanic challenge using MATLAB | Published in Towards Data Science"
 
 # Link this post with a project
 projects: []
