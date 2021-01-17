@@ -37,6 +37,6 @@ tags:
 categories:
 - Image Classification
 
-external_link: "https://iamabhishekdas.medium.com/kaggle-predict-survival-on-the-titanic-challenge-in-matlab-56f6ad3bab78"
+external_link: "https://towardsdatascience.com/how-to-build-a-convolutional-neural-network-from-scratch-using-tf-keras-for-image-classification-ee4482de8453"
 
 ---
