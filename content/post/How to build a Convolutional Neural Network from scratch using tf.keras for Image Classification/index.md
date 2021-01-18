@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Visualization of the CIFAR-10 classes by author'
   focal_point: "Smart"
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
