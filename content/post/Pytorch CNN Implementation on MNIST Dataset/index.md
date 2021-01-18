@@ -32,10 +32,10 @@ authors:
 - admin
 
 tags:
-- Deep Learning
+- Image Classification
 
 categories:
-- Deep Learning
+- Image Classification
 
 external_link: "https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset"
 
