@@ -24,9 +24,9 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Visualization of the CIFAR-10 classes by author'
-  focal_point: "Center"
+  focal_point: "Smart"
   placement: 2
-  preview_only: true
+  preview_only: false
 
 authors:
 - admin
