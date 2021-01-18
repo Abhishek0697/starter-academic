@@ -13,6 +13,7 @@ tags:
 image:
   caption: Voice Conversion Task
   focal_point: Smart
+  preview_only: true
 url_code: ""
 ---
 
