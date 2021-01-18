@@ -32,10 +32,20 @@ url_video: ""
 slides: ""
 ---
 
-### View on [GitHub](https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies)
+## Creating a real-time Augmented Reality Application
 
+> Rendering video on a moving target
 {{< video src="ar_c.mp4" controls="yes" >}}
 
-{{< video src="ar_source.mov" controls="yes" >}}
+I have tracked the book in each frame in the target video and overlayed each frame of the source video onto the book in the target video.   
 
-{{< video library="true" src="ar.avi" controls="yes" >}}
+> Source video
+{{< video src="ar_source_c.mp4" controls="yes" >}}
+
+> Target video
+{{< video src="book_c.mp4" controls="yes" >}}
+
+
+### View on [GitHub](https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies)
+Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University
+
