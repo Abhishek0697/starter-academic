@@ -34,6 +34,7 @@ image:
   placement: 1
   caption: "Challenge"
   focal_point: "Smart"
+  preview_only: true
 
 #links:
 #- icon: twitter
