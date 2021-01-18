@@ -31,8 +31,9 @@ tags: ["Deep Learning"]
 featured: false
 
 image:
+  placement:1
   caption: "Challenge"
-  focal_point: right
+  focal_point: "Smart"
 
 #links:
 #- icon: twitter
