@@ -34,6 +34,8 @@ slides: ""
 
 ### View on [GitHub](https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies)
 
-
+{{< video src="ar.avi" controls="yes" >}}
 
 {{< video src="ar_source.mov" controls="yes" >}}
+
+{{< video library="true" src="ar.avi" controls="yes" >}}
