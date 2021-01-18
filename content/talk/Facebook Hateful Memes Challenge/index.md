@@ -31,7 +31,7 @@ tags: ["Deep Learning"]
 featured: false
 
 image:
-  placement:1
+  placement: 1
   caption: "Challenge"
   focal_point: "Smart"
 
