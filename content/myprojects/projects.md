@@ -33,8 +33,8 @@ content:
     tag: Machine Learning
   - name: Internet of Things
     tag: Internet of Things
-#  - name: Computer Vision
-#    tag: Computer Vision
+  - name: Computer Vision
+    tag: Computer Vision
 
 
 design:
