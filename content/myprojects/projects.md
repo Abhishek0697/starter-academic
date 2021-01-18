@@ -27,15 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Machine Learning
-    tag: Machine Learning
-  - name: Internet of Things
-    tag: Internet of Things
   - name: Computer Vision
     tag: Computer Vision
-
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Internet of Things
+    tag: Internet of Things
+  - name: Machine Learning
+    tag: Machine Learning
+  
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
