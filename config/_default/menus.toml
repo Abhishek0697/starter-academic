@@ -17,7 +17,7 @@
 # added this 
 [[main]]
   name = "Projects"
-  url = "landing/#index" 
+  url = "myprojects/#projects" 
   weight = 30  
 
 #[[main]]
@@ -38,7 +38,7 @@
 # added this 
 [[main]]
   name = "Publications"
-  url = "landing_publication/#index" 
+  url = "mypublications/#featured" 
   weight = 50
   
 [[main]]
