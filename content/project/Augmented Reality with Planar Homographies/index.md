@@ -4,7 +4,7 @@ title: Augmented Reality with Planar Homographies
 summary: Python, NumPy
 tags:
 - Computer Vision
-date: "2018-05-01T00:00:00Z"
+date: "2020-02-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,7 +19,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/imad0697
-url_code: ""
+url_code: "https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -40,12 +40,14 @@ slides: ""
 I have tracked the book in each frame in the target video and overlayed each frame of the source video onto the book in the target video.   
 
 > Source video
-{{< video src="ar_source_c.mp4" controls="yes" >}}
+{{< video src="ar_source_c.mp4" controls="yes" >}}    
 
 > Target video
-{{< video src="book_c.mp4" controls="yes" >}}
+{{< video src="book_c.mp4" controls="yes" >}}    
 
 
-### View on [GitHub](https://github.com/Abhishek0697/Computer-Vision/tree/main/Augmented%20Reality%20with%20Planar%20Homographies)
+  
+    
+
 Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University
 
