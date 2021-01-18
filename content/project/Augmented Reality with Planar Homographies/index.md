@@ -36,4 +36,4 @@ slides: ""
 
 
 
-{{< video src="my_video.mp4" controls="yes" >}}
+{{< video src="ar_source.mov" controls="yes" >}}
