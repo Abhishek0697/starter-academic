@@ -25,7 +25,7 @@ featured: false
 image:
   caption: 'Photo of the RMS Titanic departing Southampton on April 10, 1912 by F.G.O. Stuart, Public Domain'
   focal_point: "Smart"
-  placement: 1
+  placement: 3
   preview_only: false
 
 authors:
