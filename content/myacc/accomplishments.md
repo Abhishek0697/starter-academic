@@ -15,7 +15,7 @@ design:
   
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 #title: 'Accomplish&shy;ments'
-  title: 'Certifica&shy;tions'
+title: 'Certifica&shy;tions'
 # subtitle: Certifications
 
 # Date format
