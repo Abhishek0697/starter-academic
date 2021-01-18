@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Computer Vision"
-  url = "landing/" 
+  url = "landing/#index" 
   weight = 15  
 
 [[main]]
