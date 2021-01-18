@@ -31,9 +31,9 @@ url_video: ""
 slides: ""
 ---
 
-#### Rendering n-dot-l lighting a uniform fully reflective Lambertian sphere
+#### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
 
-{{< figure src="ndotl.png" title="A caption" >}}
+{{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
 
 
 
