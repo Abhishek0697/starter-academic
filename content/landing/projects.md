@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
 title: Projects
 subtitle: ''
@@ -27,14 +27,15 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Computer Vision
-    tag: Computer Vision
-#  - name: Deep Learning
-#    tag: Deep Learning
-#  - name: Machine Learning
-#    tag: Machine Learning
-#  - name: Internet of Things
-#    tag: Internet of Things
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Internet of Things
+    tag: Internet of Things
+#  - name: Computer Vision
+#    tag: Computer Vision
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
