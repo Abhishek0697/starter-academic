@@ -26,7 +26,7 @@ image:
   caption: 'Visualization of the CIFAR-10 classes by author'
   focal_point: "Center"
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
