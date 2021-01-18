@@ -13,6 +13,7 @@ tags:
 image:
   caption: Our proposed idea
   focal_point: Smart
+  preview_only: true
 url_code: ""
 ---
 ![](Poster.png)
