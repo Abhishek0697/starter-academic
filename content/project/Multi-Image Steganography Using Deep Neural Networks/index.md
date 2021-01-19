@@ -33,6 +33,6 @@ url_video: "https://www.youtube.com/watch?v=Sb-Df9QW0sM&t=5s"
 slides: ""
 ---
 
-{{< youtube Sb-Df9QW0sM&t=5s >}}
+{{< youtube "Sb-Df9QW0sM&t=5s" >}}
 
 
