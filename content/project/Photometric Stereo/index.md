@@ -43,29 +43,28 @@ gallery_item:
   
 - album: <Photometric Stereo>
   image: depthmap_uncalib_1.png
-  caption: Depthmap View 1
+  caption: Depthmap View 1, visualized with Axes3D object in Matplotlib
 
 - album: <Photometric Stereo>
   image: depthmap_uncalib_2.png
-  caption: Depthmap View 2 
+  caption: Depthmap View 2, visualized with Axes3D object in Matplotlib 
 
 - album: <Photometric Stereo>
   image: depthmap_uncalib_3.png
-  caption: Depthmap View 3
+  caption: Depthmap View 3, visualized with Axes3D object in Matplotlib
 
 - album: <Photometric Stereo>
   image: depthmap_uncalib_4.png
-  caption: Depthmap View 4
+  caption: Depthmap View 4, visualized with Axes3D object in Matplotlib
 
 ---
-#### What we do
+#### What we did
+- Estimate Pseudonormals, and visualize the Albedo, Normal images and Shape of the face  
 - Understanding and Rendering n-dot-l Lighting
-- Estimate Pseudonormals, and Visualize the albedo, normal images and shape of the face  
 
 <br>
-<br>
 
-> Image Gallery
+> Image gallery
 {{< gallery album="<Photometric Stereo>" >}}
 
 <br>
