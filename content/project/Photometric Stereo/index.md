@@ -29,6 +29,32 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
+
+gallery_item:
+- album: <Photometric Stereo>
+  image: albedolm.png
+  caption: Normal Image
+
+- album: <Photometric Stereo>
+  image: normallm.png
+  caption: Normal Image
+
+- album: <Photometric Stereo>
+  image: uncal_normal.png
+  caption: Uncalibrated Normal Image
+
+- album: <Photometric Stereo>
+  image: uncal_normal.png
+  caption: Uncalibrated Normal Image
+
+- album: <Photometric Stereo>
+  image: uncal_normal.png
+  caption: Uncalibrated Normal Image
+
+- album: <Photometric Stereo>
+  image: uncal_normal.png
+  caption: Uncalibrated Normal Image
+
 ---
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
