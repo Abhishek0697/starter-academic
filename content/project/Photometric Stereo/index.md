@@ -52,7 +52,7 @@ gallery_item:
 
 ---
 
-{{< Photometric Stereo >}}
+{{< gallery >}}
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
 {{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
