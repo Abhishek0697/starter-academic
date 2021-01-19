@@ -34,11 +34,11 @@ slides: ""
 
 gallery_item:
 - album: <Photometric Stereo>
-  image: albedolm.png
+  image: albedoIm.png
   caption: Albedo Image
 
 - album: <Photometric Stereo>
-  image: normallm.png
+  image: normalIm.png
   caption: Normal Image
   
 - album: <Photometric Stereo>
