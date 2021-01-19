@@ -59,6 +59,10 @@ gallery_item:
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
 
+
+{{< gallery >}}
+
+
 {{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
 
 
