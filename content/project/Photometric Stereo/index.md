@@ -33,19 +33,19 @@ slides: ""
 
 
 gallery_item:
-- album: <Photometric Stereo>
+- album: <gallery>
   image: albedolm.png
   caption: Albedo Image
 
-- album: <Photometric Stereo>
+- album: <gallery>
   image: normallm.png
   caption: Normal Image
   
-- album: <Photometric Stereo>
+- album: <gallery>
   image: featured.png
   caption: featured Image
 
-- album: <Photometric Stereo>
+- album: <gallery>
   image: uncal_normal.png
   caption: Uncalibrated Normal Image
 
