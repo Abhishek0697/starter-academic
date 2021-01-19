@@ -40,7 +40,7 @@ gallery_item:
   caption: Normal Image
 
 - album: <Photometric Stereo>
-  image: uncal_normal.png
+  image:featured.png
   caption: Uncalibrated Normal Image
 
 - album: <Photometric Stereo>
@@ -51,16 +51,13 @@ gallery_item:
   image: uncal_normal.png
   caption: Uncalibrated Normal Image
 
-- album: <Photometric Stereo>
-  image: uncal_normal.png
-  caption: Uncalibrated Normal Image
 
 ---
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
 
 
-{{< gallery album="<Photometric Stereo>" >}}
+{{< gallery album="<Photometric Steroe>" >}}
 
 {{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
 
