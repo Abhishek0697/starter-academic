@@ -1,6 +1,6 @@
 ---
 title: Photometric Stereo
-summary: Python, NumPy
+summary: Python, NumPy, Matplotlib, Scikit-image
 tags:
 - Computer Vision
 date: "2020-05-12T00:00:00Z"
@@ -35,26 +35,47 @@ slides: ""
 gallery_item:
 - album: <Photometric Stereo>
   image: albedoIm.png
-  caption: Albedo Image
+  caption: Albedo Image, visualized with colormap 'gray'
 
 - album: <Photometric Stereo>
   image: normalIm.png
-  caption: Normal Image
+  caption: Normal Image, visualized with colormap 'rainbow'
   
 - album: <Photometric Stereo>
-  image: featured.png
-  caption: Featured Image
+  image: depthmap_uncalib_1.png
+  caption: Depthmap View 1
 
 - album: <Photometric Stereo>
-  image: uncal_normal.png
-  caption: Uncalibrated Normal Image
+  image: depthmap_uncalib_2.png
+  caption: Depthmap View 2 
 
+- album: <Photometric Stereo>
+  image: depthmap_uncalib_3.png
+  caption: Depthmap View 3
+
+- album: <Photometric Stereo>
+  image: depthmap_uncalib_4.png
+  caption: Depthmap View 4
 
 ---
+#### What we do
+- Understanding and Rendering n-dot-l Lighting
+- Estimate Pseudonormals, and Visualize the albedo, normal images and shape of the face  
+
+<br>
+<br>
+
+> Image Gallery
 {{< gallery album="<Photometric Stereo>" >}}
 
-#### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
-{{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
+<br>
+<br>
 
+#### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
+{{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}  
+
+
+<br>
+<br>
 Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University
 
