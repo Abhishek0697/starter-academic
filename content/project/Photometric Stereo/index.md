@@ -33,26 +33,25 @@ slides: ""
 
 
 gallery_item:
-- album: <gallery>
+- album: <Photometric Stereo>
   image: albedolm.png
   caption: Albedo Image
 
-- album: <gallery>
+- album: <Photometric Stereo>
   image: normallm.png
   caption: Normal Image
   
-- album: <gallery>
+- album: <Photometric Stereo>
   image: featured.png
-  caption: featured Image
+  caption: Featured Image
 
-- album: <gallery>
+- album: <Photometric Stereo>
   image: uncal_normal.png
   caption: Uncalibrated Normal Image
 
 
 ---
-
-{{< gallery >}}
+{{< gallery album="<Photometric Stereo>" >}}
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
 {{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
