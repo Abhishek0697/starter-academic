@@ -42,19 +42,19 @@ gallery_item:
   caption: Normal Image, visualized with colormap 'rainbow'
   
 - album: <Photometric Stereo>
-  image: depthmapuncalib1.png
+  image: depthmapuncalibone.png
   caption: Depthmap View 1, visualized with Axes3D object in Matplotlib
 
 - album: <Photometric Stereo>
-  image: depthmapuncalib2.png
+  image: depthmapuncalibtwo.png
   caption: Depthmap View 2, visualized with Axes3D object in Matplotlib 
 
 - album: <Photometric Stereo>
-  image: depthmapuncalib3.png
+  image: depthmapuncalibthree.png
   caption: Depthmap View 3, visualized with Axes3D object in Matplotlib
 
 - album: <Photometric Stereo>
-  image: depthmapuncalib4.png
+  image: depthmapuncalibfour.png
   caption: Depthmap View 4, visualized with Axes3D object in Matplotlib
 
 ---
