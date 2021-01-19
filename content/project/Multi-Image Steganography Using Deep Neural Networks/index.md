@@ -12,7 +12,7 @@ external_link: "https://github.com/JapsimarSinghWahi/DeepSteganography"
 image:
   caption: 
   focal_point: Smart
-  previewq_only: true
+  preview_only: true
 
 # links:
 #- icon: twitter
