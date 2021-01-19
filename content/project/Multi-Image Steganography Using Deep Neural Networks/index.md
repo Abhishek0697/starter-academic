@@ -12,6 +12,7 @@ external_link: "https://github.com/JapsimarSinghWahi/DeepSteganography"
 image:
   caption: 
   focal_point: Smart
+  previewq_only: true
 
 # links:
 #- icon: twitter
@@ -32,5 +33,6 @@ url_video: "https://www.youtube.com/watch?v=Sb-Df9QW0sM&t=5s"
 slides: ""
 ---
 
+{{< youtube Sb-Df9QW0sM&t=5s >}}
 
 
