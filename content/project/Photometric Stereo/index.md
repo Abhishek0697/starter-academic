@@ -30,22 +30,20 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+
+
 gallery_item:
 - album: <Photometric Stereo>
   image: albedolm.png
-  caption: Normal Image
+  caption: Albedo Image
 
 - album: <Photometric Stereo>
   image: normallm.png
   caption: Normal Image
-
+  
 - album: <Photometric Stereo>
-  image:featured.png
-  caption: Uncalibrated Normal Image
-
-- album: <Photometric Stereo>
-  image: uncal_normal.png
-  caption: Uncalibrated Normal Image
+  image: featured.png
+  caption: featured Image
 
 - album: <Photometric Stereo>
   image: uncal_normal.png
@@ -54,17 +52,11 @@ gallery_item:
 
 ---
 
+{{< gallery album="<Photometric Stereo>" >}}
+
+
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
-
-
-{{< gallery album="<Photometric Steroe>" >}}
-
 {{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}
-
-
-
-  
-    
 
 Acknowledgements - This project is done as a part of the course curriculum in 16-720:Computer Vision @ Carnegie Mellon University
 
