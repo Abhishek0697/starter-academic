@@ -4,7 +4,7 @@ title: Multi-Image Steganography Using Deep Neural Networks
 summary: Pytorch, Python, Jupyter Notebook
 tags:
 - Deep Learning
-date: "2020-5-1T00:00:00Z"
+date: "2020-05-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,7 +23,7 @@ image:
 url_code: "https://github.com/JapsimarSinghWahi/DeepSteganography"
 url_pdf: "https://arxiv.org/pdf/2101.00350.pdf"
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=Sb-Df9QW0sM&t=5s"
+# url_video: "https://www.youtube.com/watch?v=Sb-Df9QW0sM&t=5s"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
