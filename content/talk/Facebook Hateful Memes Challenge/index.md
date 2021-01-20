@@ -1,5 +1,5 @@
 ---
-title: "Research Ideas for the Hateful Memes Challenge"
+title: "Research Ideas for the Facebook Hateful Memes Challenge"
 
 event: "Hateful Memes Challenge session @ NeurIPS - Contributed Talks"
 event_url: https://ai.facebook.com/blog/hateful-memes-challenge-and-data-set/
