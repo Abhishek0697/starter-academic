@@ -31,7 +31,7 @@ experience:
     description: |2-
         Responsibilities include:
       
-        * Developing Neural Networks for Fine-Grain Retail Product Image Classification
+        * Designing Neural Networks for Fine-Grain Retail Product Image Classification
         * Read and Implement latest research techniques in the field to optimize the model performance
         
          
@@ -45,7 +45,7 @@ experience:
         Responsibilities include:
         
         * Developing a pipeline for Plugs detection for Inventory management in Retail Stores
-        * Dataset Analysis and Cleaning
+        * Work with Long Tail distributions; Dataset Analysis and Cleaning
 
 
   - title: "Graduate Research Assistant"
