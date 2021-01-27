@@ -64,7 +64,7 @@ gallery_item:
 
 <br>
 
-> Image gallery
+### Image gallery
 {{< gallery album="<Photometric Stereo>" >}}
 
 <br>
