@@ -20,7 +20,7 @@ image:
   caption: Hateful Meme(left), it's Benign Confounder(middle) and Object Dection Visualization(right)
   focal_point: Smart
   preview_only: true
-url_code: "https://github.com/Abhishek0697/Facebook-Hateful-Memes-Challenge"
+url_code: "https://github.com/Abhishek0697/Detection-of-Hate-Speech-in-Multimodal-Memes"
 ---
 
 
