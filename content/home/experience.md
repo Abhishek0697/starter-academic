@@ -28,8 +28,6 @@ experience:
     location: Pittsburgh
     date_start: '2020-08-17'
     date_end: '2020-12-23'
-    icon: cmu
-    icon_pack: "custom"
     description: |2-
         Responsibilities include:
       
