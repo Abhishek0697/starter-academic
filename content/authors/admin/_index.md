@@ -27,11 +27,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - icon: cmu
+    icon_pack: "custom"
   - course: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2020
-  - icon: envelope
-    icon_pack: fas
+  - icon: dj
+    icon_pack: "custom"
   - course: B.Eng. in Electronics and Telecommunication Engineering
     institution: University of Mumbai
     year: 2019
