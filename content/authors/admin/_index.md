@@ -30,6 +30,8 @@ education:
   - course: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2020
+    icon: envelope
+    icon_pack: fas
   - course: B.Eng. in Electronics and Telecommunication Engineering
     institution: University of Mumbai
     year: 2019
