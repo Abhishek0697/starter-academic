@@ -80,7 +80,7 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about designing projects that could effectively solve global real-time issues and disruptively innovate the industry by applying Computer Vision, Natural Language Processing, Deep Learning, and the Internet of Things.
+I am passionate about designing projects that could effectively solve global real-time issues, and create amazing innovations that could serve mankind to make its life easier and more fulfilling by applying techniques in Computer Vision, Natural Language Processing, Deep Learning and the Internet of Things.
 
 My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowledge from Vision, Language and Speech modalities.
 
