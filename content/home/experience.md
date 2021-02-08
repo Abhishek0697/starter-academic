@@ -45,7 +45,8 @@ experience:
         Responsibilities include:
         
         * Developing a pipeline for Plugs detection for Inventory management in Retail Stores
-        * Work with Long Tail distributions; Dataset Analysis and Cleaning
+        * Work with Long Tail distributions
+        * Analysis and cleaning of large noisy image datasets
 
 
   - title: "Graduate Research Assistant"
