@@ -25,7 +25,7 @@ item:
   date_end: ""
   date_start: "2020-10-30"
   description: "RetailNet is a system and method for product feature association and recognition from product images using machine learning feature extraction, multilayer feature classification, feature matching, and product ID association."
-  organization: "CyLab Security and Privacy Institute - Biometrics Center, Carnegie Mellon University, Patent Pending"
+  organization: "CyLab Security and Privacy Institute, Carnegie Mellon University, Patent Pending"
   organization_url: "https://www.cylab.cmu.edu/"
   title: "The method and system of using RetailNet for inventory management"
   url: ""
