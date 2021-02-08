@@ -44,7 +44,7 @@
 # added this 
 [[main]]
   name = "Accomplishments"
-  url = "myacc/#accomplishments" 
+  url = "myacc/#patents" 
   weight = 70
 
 
