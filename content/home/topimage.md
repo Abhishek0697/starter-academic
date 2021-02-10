@@ -12,9 +12,10 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: ""
+    gradient_end: ""
     text_color_light: true
+    image: cut.jpg
   spacing:
     padding:
       - 20px
