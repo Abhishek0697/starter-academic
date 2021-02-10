@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # added this
-active: true
+active: false
 
 # Order that this section appears on the page.
 weight: 40
