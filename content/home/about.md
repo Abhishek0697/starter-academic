@@ -8,7 +8,7 @@ weight: 20
 title: Hey, I am Abhishek!
 design:
   background:
-    image: 29265315871_7dfd4864a7_o.jpg
+    image: 29344297235_fcab1792f2_o.jpg
 ---
 I am passionate about designing projects that could effectively solve global real-time issues and disruptively innovate the industry by applying Computer Vision, Natural Language Processing, Deep Learning, and the Internet of Things.
 
