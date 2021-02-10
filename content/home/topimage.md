@@ -19,7 +19,7 @@ design:
   spacing:
     padding:
       - 200px
-      - "0"
+      - 400px
       - 200px
-      - "0"
+      - 400px
 ---
