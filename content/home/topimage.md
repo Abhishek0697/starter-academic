@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: ""
     gradient_end: ""
-    text_color_light: false
+    text_color_light: true
     image: cut.jpg
   spacing:
     padding:
