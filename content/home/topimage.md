@@ -18,8 +18,8 @@ design:
     image: cut.jpg
   spacing:
     padding:
-      - 200px
       - 100px
-      - 200px
+      - "0"
       - 100px
+      - "0"
 ---
