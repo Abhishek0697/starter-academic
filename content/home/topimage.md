@@ -15,7 +15,7 @@ design:
     gradient_start: ""
     gradient_end: ""
     text_color_light: true
-    image: cut.jpg
+    image: thecut.jpg
   spacing:
     padding:
       - 100px
