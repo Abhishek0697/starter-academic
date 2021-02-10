@@ -18,8 +18,8 @@ design:
     image: 29265315871_7dfd4864a7_o.jpg
   spacing:
     padding:
-      - 20px
+      - 200px
       - "0"
-      - 20px
+      - 200px
       - "0"
 ---
