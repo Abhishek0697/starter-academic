@@ -8,7 +8,7 @@ headless: true
 weight: 15
 title: Hey, I am Abhishek!
 subtitle: All you want to know about my who-what-why-how-where-when.
-active: true
+active: false
 design:
   columns: "1"
   background:
