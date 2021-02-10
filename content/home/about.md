@@ -8,7 +8,7 @@ weight: 20
 title: Hey, I am Abhishek!
 design:
   background:
-    image: 29265315871_7dfd4864a7_o.jpg
+    image: cut.jpg
     text_color_light: true
     image_darken: 0.5
   columns: ""
