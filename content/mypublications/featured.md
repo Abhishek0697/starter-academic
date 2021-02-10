@@ -6,6 +6,9 @@ widget: featured
 # This file represents a page section.
 headless: true
 
+# added this 
+active: true
+
 # Order that this section appears on the page.
 weight: 10
 
