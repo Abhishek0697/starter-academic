@@ -84,7 +84,7 @@ highlight_name: false
 design:
   columns: "1"
   background:
-    image: 29265315871_7dfd4864a7_o.jpg
+    image: https://github.com/Abhishek0697/starter-academic/blob/master/static/media/29265315871_7dfd4864a7_o.jpg
     image_darken: 0.5
     image_size: cover
     image_position: center
