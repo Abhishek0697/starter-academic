@@ -78,11 +78,23 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+
+
+design:
+  columns: "1"
+  background:
+    image: 29265315871_7dfd4864a7_o.jpg
+    image_darken: 0.5
+    image_size: cover
+    image_position: center
+    image_parallax: false
+    text_color_light: true
+
+
 ---
 
-I am passionate about designing projects that could effectively solve global real-time issues, and create amazing innovations that could serve mankind to make its life easier and more fulfilling by applying techniques in Computer Vision, Natural Language Processing, Deep Learning and the Internet of Things.
-
-My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowledge from Vision, Language and Speech modalities.
+I am passionate about designing projects that could effectively solve global real-time issues, and create amazing innovations that could serve mankind to make its life easier and more fulfilling by applying techniques in Computer Vision, Natural Language Processing, Deep Learning and the Internet of Things. My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowledge from Vision, Language and Speech modalities.
 
 In my leisure time, I enjoy playing cricket and cooking.
 
