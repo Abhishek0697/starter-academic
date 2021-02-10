@@ -9,9 +9,9 @@ weight: 15
 title: Hey, I am Abhishek!
 subtitle: All you want to know about my who-what-why-how-where-when.
 active: true
-#design:
-#  columns: "1"
-#  background:
+design:
+  columns: "1"
+  background:
 #    gradient_start: ""
 #    gradient_end: ""
 #    text_color_light: true
@@ -23,18 +23,17 @@ active: true
 #      - 100px
 #      - "0"
       
-background:
 # Name of image in `static/media/`.
-  image: thecut.jpg
+     image: thecut.jpg
 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_darken: 0.5
+     image_darken: 0.5
 #  Options are `cover` (default), `contain`, or `actual` size.
-  image_size: cover
+     image_size: cover
 # Options include `left`, `center` (default), or `right`.
-  image_position: center
+     image_position: center
 # Use a fun parallax-like fixed background effect? true/false
-  image_parallax: false
+     image_parallax: false
 # Text color (true=light or false=dark).
-  text_color_light: true
+     text_color_light: true
 
 ---
