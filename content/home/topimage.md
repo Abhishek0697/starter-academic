@@ -6,8 +6,8 @@ widget: blank
 widget_id: gbm
 headless: true
 weight: 15
-title: Abhishek's Home Page
-subtitle: All you want to know about my who-what-why-how-where-when.
+title: All you want to know about my who-what-why-how-where-when.
+subtitle: ""
 active: true
 design:
   columns: "1"
