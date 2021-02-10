@@ -8,12 +8,6 @@
 #  url = "#about"
 #  weight = 10
 
-
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
-
 # added this 
 [[main]]
   name = "Research"
@@ -25,21 +19,11 @@
 #  url = "#projects"
 #  weight = 30
 
-#[[main]]
-#  name = "Talks"
-#  url = "#talks"
-#  weight = 40
-
+# added this 
 #[[main]]
 #  name = "Publications"
-#  url = "#featured"
+#  url = "mypublications/#featured" 
 #  weight = 50
-
-# added this 
-[[main]]
-  name = "Publications"
-  url = "mypublications/#featured" 
-  weight = 50
 
 # added this 
 [[main]]
@@ -60,14 +44,6 @@
 #    url = "media/resume.pdf"
 #    weight = 70
 
-
-
-
-
-#[[main]]
-#  name = "Skills"
-#  url = "myskills/#skills" 
-#  weight = 60
 
 [[main]]
   name = "About Me"
