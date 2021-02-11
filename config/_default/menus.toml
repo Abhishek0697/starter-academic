@@ -47,7 +47,7 @@
 
 [[main]]
   name = "About Me"
-  url = "about/#experience" 
+  url = "about/#about" 
   weight = 20
 
 
