@@ -31,6 +31,8 @@ design:
 
 :house: I come from the city of Mumbai in India
 
+:abc: Languages I know - Bengali, English, Hindi, and Marathi
+
 :trophy: I love playing cricket and have won numerous cometitions, where I have been awarded as the best-player
 
 :fork_and_knife: I like to watch cooking videos and try making the dishes!
@@ -42,7 +44,4 @@ design:
 * Game of Thrones (Arya Stark)
 * The Office (Michael Scott)
 
-:yum: My cheat meal would be Butter Chicken and Garlic Naan
-
-:abc: The languages I know are Bengali, English, Hindi, and Marathi
-
+:yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie
