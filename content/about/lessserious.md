@@ -18,30 +18,30 @@ design:
 #    image_position: center
 #    image_parallax: false
 #    text_color_light: true
-#  spacing:
-#    # Customize the section spacing. Order is top, right, bottom, left.
-#    padding: ["100px", "0", "300px", "0"]
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 
 ---
 
 
 # Less Serious Life
 
-### Some fun-facts about me:
+> Some fun-facts about me
 
 :house: I come from the city of Mumbai in India
 
-:abc: Languages I know - Bengali, English, Hindi, and Marathi
+:abc: Languages I know: Bengali, English, Hindi, and Marathi
 
-:trophy: I love playing cricket and have won numerous cometitions, where I have been awarded as the best-player
+:trophy: I love playing cricket and have won numerous cometitions, where I have been awarded as the best-player!
+
+:running: I like working out in the gym!
 
 :fork_and_knife: I like to watch cooking videos and try making the dishes!
 
-:running: I like working out in the gym
+:yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie!
 
-:tv: The TV series I am a huge fan of and the favourite characters are-
-* Friends (Joey, Chandler)
-* Game of Thrones (Arya Stark)
-* The Office (Michael Scott)
-
-:yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie
+:tv: The TV series I am a huge fan of and the favourite characters are:
+* Friends: Joey, Chandler
+* Game of Thrones: Arya Stark
+* The Office: Michael Scott
