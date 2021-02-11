@@ -1,0 +1,48 @@
+---
+advanced:
+  css_style: ""
+  css_class: ""
+widget: blank
+widget_id: gbm2
+headless: true
+weight: 
+# title: All you want to know about my who-what-why-how-where-when-ML-AI!
+subtitle: 
+active: true
+design:
+  columns: "1"
+#  background:
+#    image: thecut.jpg
+#    image_darken: 0
+#    image_size: cover
+#    image_position: center
+#    image_parallax: false
+#    text_color_light: true
+#  spacing:
+#    # Customize the section spacing. Order is top, right, bottom, left.
+#    padding: ["100px", "0", "300px", "0"]
+
+---
+
+
+# Less Serious Life
+
+### Some fun-facts about me:
+
+:house: I come from the city of Mumbai in India
+
+:trophy: I love playing cricket and have won numerous cometitions, where I have been awarded as the best-player
+
+:fork_and_knife: I like to watch cooking videos and try making the dishes!
+
+:running: I like working out in the gym
+
+:tv: The TV series I am a huge fan of and the favourite characters are-
+* Friends (Joey, Chandler)
+* Game of Thrones (Arya Stark)
+* The Office (Michael Scott)
+
+:yum: My cheat meal would be Butter Chicken and Garlic Naan
+
+:abc: The languages I know are Bengali, English, Hindi, and Marathi
+
