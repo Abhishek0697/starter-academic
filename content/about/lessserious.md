@@ -31,7 +31,7 @@ design:
 
 :house: I come from the city of Mumbai in India
 
-:abc: Languages I know: Bengali, English, Hindi, and Marathi
+:ab: Languages I know: Bengali, English, Hindi, and Marathi
 
 :trophy: I love playing cricket and have won numerous cometitions, where I have been awarded as the best-player!
 
@@ -40,6 +40,8 @@ design:
 :fork_and_knife: I like to watch cooking videos and try making the dishes!
 
 :yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie!
+
+:coffee: I am a excessive coffee drinker!
 
 :tv: The TV series I am a huge fan of and the favourite characters are:
 * Friends: Joey, Chandler
