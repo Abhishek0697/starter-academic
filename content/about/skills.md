@@ -31,7 +31,6 @@ feature:
 #  icon_pack: fab
 #  name: Linux
 
-
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #  icon_pack: "emoji"
@@ -61,14 +60,14 @@ feature:
   name: NumPy
   description: Advanced
 
+- icon: keras
+  icon_pack: "custom"
+  name: Keras
+  description: Advanced
+
 - icon: matlab2
   icon_pack: "custom"
   name: MATLAB
-  description: Advanced
-
-- icon: arduino
-  icon_pack: "custom"
-  name: Arduino
   description: Advanced
 
 - icon: sklearn
@@ -76,25 +75,21 @@ feature:
   name: scikit-learn
   description: Advanced
 
+- icon: arduino
+  icon_pack: "custom"
+  name: Arduino
+  description: Advanced
+
 - icon: jupyter
   icon_pack: "custom"
   name: Jupyter
   description: Advanced
   
-- icon: keras
-  icon_pack: "custom"
-  name: Keras
-  description: Advanced
 
 # - icon: matplotlib
 #  icon_pack: "custom"
 #  name: Matplotlib
 #  description: Advanced
-
-- icon: pandas
-  icon_pack: "custom"
-  name: Pandas
-  description: Intermediate
 
 - icon: tensorflow
   icon_pack: "custom"
@@ -110,6 +105,12 @@ feature:
   icon_pack: "custom"
   name: Linux
   description: Intermediate
+  
+- icon: pandas
+  icon_pack: "custom"
+  name: Pandas
+  description: Intermediate
+  
 
 # - icon: opencv
 #  icon_pack: "custom"
