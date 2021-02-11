@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: gbm2
 headless: true
-weight: 
+weight: 90
 # title: All you want to know about my who-what-why-how-where-when-ML-AI!
 subtitle: 
 active: true
