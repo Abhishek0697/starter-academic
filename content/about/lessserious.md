@@ -39,9 +39,9 @@ design:
 
 :fork_and_knife: I like to watch cooking videos and try making the dishes!
 
-:yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie!
-
 :coffee: I am a excessive coffee drinker!
+
+:yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie!
 
 :tv: The TV series I am a huge fan of and the favourite characters are:
 * Friends: Joey, Chandler
