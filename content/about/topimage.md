@@ -6,16 +6,16 @@ widget: blank
 widget_id: gbm
 headless: true
 weight: 5
-title: All you want to know about my who-what-why-how-where-when!
-subtitle: 
-active: true
+title: Hey, I am Abhishek!
+subtitle: All you want to know about my who-what-why-how-where-when-ML-AI.
+active: false
 design:
   columns: "1"
   background:
-    image: cut.jpg
-    image_darken: 0.6
+    image: thecut.jpg
+    image_darken: 0
     image_size: cover
     image_position: center
-    image_parallax: true
+    image_parallax: false
     text_color_light: true
 ---
