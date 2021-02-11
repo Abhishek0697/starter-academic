@@ -39,7 +39,7 @@ design:
 
 :fork_and_knife: I like to watch cooking videos and try making the dishes!
 
-:coffee: I am a excessive coffee drinker!
+:coffee: I am an excessive coffee drinker and a morning person!
 
 :yum: My cheat meal would be Butter Chicken, Garlic Naan and a Sizzling Brownie!
 
